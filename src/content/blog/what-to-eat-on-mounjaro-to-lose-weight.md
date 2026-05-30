@@ -90,3 +90,9 @@ Small sips are fine, but avoid drinking large amounts right before or during mea
 ## The bottom line
 
 Eating well on Mounjaro comes down to a simple pattern: small, frequent mini-meals built around protein first, then produce, then smart carbs and fats — with steady hydration between meals and a wide berth around heavy, greasy foods. Because portions are so small, the quality of each bite matters more than ever, and a quick photo-log with a tool like [Nutrify](https://nutrify.info) makes it easy to confirm your tiny meals still add up to enough protein and the right calories. Get the structure right, and the medication handles the rest.
+
+## Related guides
+
+- [Mounjaro Meal Plan](/blog/mounjaro-meal-plan/) — a ready-to-use 3-day plan.
+- [High Protein Meals for Mounjaro](/blog/high-protein-meals-for-mounjaro/) — hit your protein target on a small appetite.
+- [Foods to Avoid on Mounjaro](/blog/foods-to-avoid-on-mounjaro/) — what commonly makes side effects worse.

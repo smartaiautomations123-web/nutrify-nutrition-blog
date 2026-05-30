@@ -102,5 +102,6 @@ On Mounjaro, the challenge flips from "eat less" to "eat *enough of the right th
 
 ## Related guides
 
+- [Mounjaro Meal Plan](/blog/mounjaro-meal-plan/) — a ready-to-use 3-day plan that puts all this into practice.
 - [What to Eat on Mounjaro to Lose Weight](/blog/what-to-eat-on-mounjaro-to-lose-weight/) — the overall daily-eating approach.
 - [Foods to Avoid on Mounjaro](/blog/foods-to-avoid-on-mounjaro/) — what commonly makes side effects worse, and what to do instead.

@@ -2,7 +2,7 @@
 title: "Foods to Avoid on Mounjaro: What Makes Side Effects Worse"
 description: "Foods to avoid on Mounjaro: the greasy, sugary, fizzy, and heavy foods that commonly worsen nausea, reflux, sulfur burps, and constipation, plus what to do instead."
 pubDate: 2026-05-30
-heroImage: "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=1200&q=80"
 ---
 
 If you've been wondering which **foods to avoid on Mounjaro**, you're usually asking for one of two reasons: either certain meals are leaving you queasy, bloated, or dealing with reflux, or you want to make the most of an appetite that's now much smaller than it used to be. This guide is about what to *limit* and *why* — the foods that tend to amplify GLP-1 side effects, and the low-value ones that quietly crowd out the nutrition you actually need.
@@ -93,3 +93,9 @@ More fibre and fluids generally help, but a sudden large increase can backfire w
 ## The bottom line
 
 The **foods to avoid on Mounjaro** aren't a fixed blacklist — they're the usual suspects that clash with slowed gastric emptying: greasy and fried foods, big sugar hits, oversized portions, fizzy drinks, alcohol, and (for some) sudden fibre spikes or personal reflux triggers. Limit those, eat smaller and slower, and lean on lower-grease, protein-forward meals instead. The most useful move is to track meals against symptoms so you can spot your *own* patterns — logging by photo with [Nutrify](https://nutrify.info) makes that easy, and your gut will tell you the rest.
+
+## Related guides
+
+- [Mounjaro Meal Plan](/blog/mounjaro-meal-plan/) — a ready-to-use 3-day plan.
+- [What to Eat on Mounjaro to Lose Weight](/blog/what-to-eat-on-mounjaro-to-lose-weight/) — the overall daily-eating approach.
+- [High Protein Meals for Mounjaro](/blog/high-protein-meals-for-mounjaro/) — hit your protein target on a small appetite.
