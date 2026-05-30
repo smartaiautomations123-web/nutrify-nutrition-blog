@@ -99,3 +99,8 @@ When you're eating very little, eyeballing is unreliable — most people overest
 ## The bottom line
 
 On Mounjaro, the challenge flips from "eat less" to "eat *enough of the right thing*" — and protein is that thing, because it's what protects your muscle while the fat comes off. Focus on protein-dense, small-volume meals, lead with the protein at every bite, and don't let "easy" low-protein foods fill your limited appetite. If keeping an eye on your daily number feels overwhelming, a photo-based tracker like [Nutrify](https://nutrify.info) makes it about as effortless as it gets — snap, see your protein, adjust. Always loop in your healthcare team on what's right for you.
+
+## Related guides
+
+- [What to Eat on Mounjaro to Lose Weight](/blog/what-to-eat-on-mounjaro-to-lose-weight/) — the overall daily-eating approach.
+- [Foods to Avoid on Mounjaro](/blog/foods-to-avoid-on-mounjaro/) — what commonly makes side effects worse, and what to do instead.
