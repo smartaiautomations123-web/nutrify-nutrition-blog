@@ -8,11 +8,48 @@ import Header from '../components/Header.astro';
 type Props = CollectionEntry<'blog'>['data'];
 
 const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
+const siteBase = Astro.site?.toString().replace(/\/$/, '') ?? 'https://nutrition.nutrify.info';
+const logoUrl =
+	'https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/user_691b59558fff69278c93cad4/37ce0c3f6_uploaded_media_0_1769620177059.png';
+const publisher = {
+	'@type': 'Organization',
+	name: 'Nutrify AI',
+	url: 'https://nutrify.info',
+	logo: { '@type': 'ImageObject', url: logoUrl },
+};
+const jsonLd = {
+	'@context': 'https://schema.org',
+	'@graph': [
+		{
+			'@type': 'BlogPosting',
+			headline: title,
+			description,
+			...(heroImage ? { image: [heroImage] } : {}),
+			datePublished: pubDate.toISOString(),
+			dateModified: (updatedDate ?? pubDate).toISOString(),
+			author: publisher,
+			publisher,
+			mainEntityOfPage: { '@type': 'WebPage', '@id': canonicalURL },
+			inLanguage: 'en-GB',
+		},
+		{
+			'@type': 'BreadcrumbList',
+			itemListElement: [
+				{ '@type': 'ListItem', position: 1, name: 'Home', item: `${siteBase}/` },
+				{ '@type': 'ListItem', position: 2, name: 'Articles', item: `${siteBase}/blog/` },
+				{ '@type': 'ListItem', position: 3, name: title, item: canonicalURL },
+			],
+		},
+	],
+};
 ---
 
 <html lang="en">
 	<head>
 		<BaseHead title={title} description={description} ogImage={heroImage} />
+		<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} is:inline />
 		<style>
 			main {
 				width: calc(100% - 2em);
@@ -48,6 +85,14 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				margin-bottom: 0.5em;
 				color: rgb(var(--gray));
 			}
+			.byline {
+				margin-bottom: 0.5em;
+				font-size: 0.9em;
+				color: rgb(var(--gray));
+			}
+			.byline a {
+				color: inherit;
+			}
 			.last-updated-on {
 				font-style: italic;
 			}
@@ -73,6 +118,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 								)
 							}
 						</div>
+						<div class="byline">By the <a href="https://nutrify.info">Nutrify AI Team</a> · Reviewed for accuracy</div>
 						<h1>{title}</h1>
 						<hr />
 					</div>

@@ -1,0 +1,16 @@
+# Nutrify AI — Nutrition & Health Guides
+
+> Evidence-based nutrition, weight-management, GLP-1 (Mounjaro/Ozempic/Wegovy), and high-protein guides published by the team behind Nutrify AI — an all-in-one AI nutrition and health app (iOS & Android) that scans meals to auto-log calories, macros, and protein, with personalised plans and 24/7 AI coaching.
+
+## About
+- Nutrify AI app: https://nutrify.info
+- This guides site: https://nutrition.nutrify.info
+- Content is general nutrition information, not medical advice. Articles touching medications or medical conditions advise consulting a doctor, pharmacist, or registered dietitian.
+
+## Key topics
+- GLP-1 / Mounjaro nutrition (meal plans, what to eat, foods to avoid, side-effect management, protein/muscle preservation)
+- High-protein eating (breakfasts, snacks, low-calorie meals, getting enough protein from whole food)
+- Calorie & macro tracking, weight loss, gut health
+
+## Sitemap
+- https://nutrition.nutrify.info/sitemap-index.xml
